@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&display=swap');
+header{
+    background-color:black ;
+}
+header{
+    color:white;
+    display: flex;
+    text-align: center;
+    font-family: Akaya Telivigala;
+}
+.himg{
+    height:70px;
+    width:70px;
+}
+nav{
+    margin:0;
+    background-color:linear-gradient(45deg,#4B79A1,#283E51);
+    background-size:200% 200% ;
+    animation: gradient 10s ease infinite;
+
+}
+nav a{
+    font-family:"Redressed";
+    margin:120px;
+    text-decoration: none;
+    color:black;
+    background-color:#93BEC6;
+    border:1px solid pink;
+    border-radius: 50%;
+    font-size:20px;
+}
+h2{
+    text-align: center;
+    font-size:35px;
+}
+h3{ 
+       text-align: center;
+    font-size:35px;
+}
+main{
+    font-family:"Montserrat Alternates";
+    font-size:20px;
+}
+main img{
+    width: 350px;
+    height: 350px;
+}
+h4{ 
+       text-align: center;
+    font-size:35px;
+}
+body{
+    background-color:#FEEFF8 ;
+}
+@keyframes gradien{
+    0%{
+        background-position: 0 50%;
+    }
+    50%{
+        background-position: 100% 50%
+    }
+    100%{
+        background-position: 0 50%;
+    }
+}
