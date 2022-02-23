@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>pubg mabgu </title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+<body>
+    <header>
+        <img class="himg" src="https://play-lh.googleusercontent.com/JRd05pyBH41qjgsJuWduRJpDeZG0Hnb0yjf2nWqO7VaGKL10-G5UIygxED-WNOc3pg">
+         <h1>PlayerUnknown's Battlegrounds</h1>    
+    </header>
+    <nav>
+        <a href="https://play.google.com/store/apps/details?id=com.tencent.ig&hl=ru&gl=US">Download</a>
+        <a href="https://www.youtube.com/watch?v=N6E5aO5u8Mg">Guides </a>
+        <a href="https://www.cybersport.ru/pubg">news</a>
+        <a href="https://ru.wikipedia.org/wiki/PlayerUnknown’s_Battlegrounds">wiki</a>
+    </nav>
+    <main>
+        <h2>О Pubg</h2>
+        <p> Игра Pubg или же PlayerUnknown’s Battlegrounds,игра на выживание,можно играть как и на ПК так и на мобильном устройство,суть игры заключается в том - что-бы занять топ 1 или же THE WINNER CHIKEN,можно играть одному либо воссоединиться с друзьями или случайным игроком.В PUBG есть ранг,их 10 но не всё так просто каждый ранг это 5 уровней этого ранга.<br>Все ранги:
+<br>1.Бронза
+ <br>2.Серебро
+  <br>3.Золото
+   <br>4.Платина
+    <br>5.Алмаз
+   <br>6.Корона
+  <br>7.Ас
+ <br>8.Ас-мастер
+<br>9.Ас-доминатор
+<br>10.Завоеватель
+<br>Есть множество разных событий которые дают мотивацию играть.около 7 режимов игры.Интересно камньюнити.Игроки с разных стран.На данный момент идёт 8 Royal pass а так же Цыкл3 сезон1.
+От себя хочу добавить что первое впечатление от игры просто было сногсшибательное потому что мне нравятся игры по типу стрелялок.На данный момент я прокачал себе Ас’а</p>
+<h3>Последние новости игры</h3>
+ <p> В игру хотят вернуть множество скинов которые были раньше, комьюнити игры голосует за легендарную <a href="https://www.youtube.com/watch?v=nhIkTY7XaPE">M416 шут</a>,так-как она редкая как и <a href="https://www.youtube.com/watch?v=woxyV8V3oPo">AKM ледник</a>,а так-же мифический сет Joker которого не было в игре около 3 лет.</p>
+    <img src="https://cdn131.picsart.com/350494613057211.png">
+     <img src="https://cdn131.picsart.com/337359780023211.png">
+     <h4>Новости о Кибер-спорте</h4>
+    <p>С недавно из команды KaninaPower ушёл лучший игрок OldBoy который был ихним пропускным билетом в лучшие позиции турниров.<br>OldBoy перешёл в команду Navi(Natus Vincere).<br> Команда и до этого была достойным соперником,теперь у них есть 99,9% что они проходят множество турниров по pubg mobile. </p>
+    </main>
+</body>
+</html>
