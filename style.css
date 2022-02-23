@@ -9,6 +9,10 @@ header{
     display: flex;
     text-align: center;
     font-family: Akaya Telivigala;
+    margin:0;
+    background:linear-gradient(45deg,#03001e,#7303c0,#ec38bc,#fdeff9);
+    background-size: 200% 200%;
+    animation: gradien 10s ease infinite;
 }
 .himg{
     height:70px;
@@ -16,10 +20,9 @@ header{
 }
 nav{
     margin:0;
-    background-color:linear-gradient(45deg,#4B79A1,#283E51);
-    background-size:200% 200% ;
-    animation: gradient 10s ease infinite;
-
+    background:linear-gradient(45deg,#03001e,#7303c0,#ec38bc,#fdeff9);
+    background-size: 200% 200%;
+    animation: gradien 10s ease infinite;
 }
 nav a{
     font-family:"Redressed";
@@ -54,14 +57,14 @@ h4{
 body{
     background-color:#FEEFF8 ;
 }
-@keyframes gradien{
-    0%{
-        background-position: 0 50%;
-    }
-    50%{
-        background-position: 100% 50%
-    }
-    100%{
-        background-position: 0 50%;
-    }
-}
+ @keyframes gradien{
+     0% {
+         background-position:0 50%;
+     }
+     50%{
+         background-position: 100% 50%;
+     }
+     100%{
+         background-position: 0 50%;
+     }
+ }
