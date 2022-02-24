@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&family=Redressed&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&family=Redressed&family=Shizuru&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&display=swap');
 header{
     background-color:black ;
@@ -68,4 +69,32 @@ body{
          background-position: 0 50%;
      }
  }
-
+footer{
+    text-align: center;
+    font-family: Akaya Telivigala;
+    margin:0;
+    background:linear-gradient(45deg,#03001e,#7303c0,#ec38bc,#fdeff9);
+    background-size: 200% 200%;
+    animation: gradien 10s ease infinite;
+}
+footer a{
+    margin:20px;
+    color:black;
+    text-decoration: none;
+    padding:5px;
+    
+}
+footer p{
+    text-align:Left;
+    color:white;
+    font-family:"Montserrat Alternates";
+}
+footer img{
+    float:left;
+    height:70px;
+    width:70px;
+}
+.UwU{
+    font-family: "Shizuru";
+    color:white;
+}
