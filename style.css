@@ -5,9 +5,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&display=swap');
 
 header{
-    background-color:black ;
-}
-header{
     color:white;
     display: flex;
     text-align: center;
@@ -103,4 +100,5 @@ footer img{
 .Soc{
     font-family:Balsamiq Sans;
     color:white;
+    font-size:21px;
 }
