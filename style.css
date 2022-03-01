@@ -10,7 +10,7 @@ header{
     text-align: center;
     font-family: Akaya Telivigala;
     margin:0;
-    background:linear-gradient(45deg,#03001e,#7303c0,#ec38bc,#fdeff9);
+    background:linear-gradient(130deg,#03001e,#7303c0,#ec38bc,#fdeff9);
     background-size: 200% 200%;
     animation: gradien 10s ease infinite;
 }
