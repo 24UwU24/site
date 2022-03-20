@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&family=Redressed&family=Shizuru&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Caveat&family=Montserrat+Alternates:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Architects+Daughter&family=Balsamiq+Sans&family=Caveat&family=Montserrat+Alternates:wght@100;400&family=Patrick+Hand&family=Redressed&family=Reggae+One&family=Shizuru&display=swap');
 
 header{
     color:white;
@@ -10,7 +11,7 @@ header{
     text-align: center;
     font-family: Akaya Telivigala;
     margin:0;
-    background:linear-gradient(130deg,#03001e,#7303c0,#ec38bc,#fdeff9);
+    background:linear-gradient(115deg,#03001e,#7303c0,#ec38bc,#fdeff9);
     background-size: 200% 200%;
     animation: gradien 10s ease infinite;
 }
@@ -90,8 +91,8 @@ footer p{
 }
 footer img{
     float:left;
-    height:94px;
-    width:94px;
+    width: 94px;
+    height: 94px;
 }
 .UwU{
     font-family: Shizuru;
@@ -101,4 +102,8 @@ footer img{
     font-family:Balsamiq Sans;
     color:white;
     font-size:21px;
+}
+footer p{
+    font-family: Patrick Hand;
+    position: ;
 }
